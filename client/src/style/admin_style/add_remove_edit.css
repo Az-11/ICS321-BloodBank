@@ -17,7 +17,7 @@ h1 {
   justify-content: center;
   margin-bottom: 10rem;
 }
-
+// aziz-gh
 .btn-1 {
   padding: 30px 100px;
   font-size: 32px;
@@ -54,13 +54,13 @@ h1 {
   flex-direction: column;
   width: 70%; /* Increased from 50% to 70% */
 }
-
+// aziz-ga
 .container-3 label {
   margin: 10px 0 5px 0;
   color: #333;
   font-size: 18px; /* Added font size */
 }
-
+// osamah omari
 .container-3 input[type="text"],
 .container-3 input[type="date"],
 .container-3 input[type="email"],
